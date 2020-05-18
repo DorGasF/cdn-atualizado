@@ -44874,3 +44874,24 @@ td>.kt-radio.kt-radio--single {
 	align-items: center;
 	margin-bottom: 0.7rem;
 }
+
+.container {
+  margin-top: 20px;
+}
+
+.panel-heading {
+  font-size: larger;
+}
+
+.alert {
+  display: none;
+}
+
+.ui-state-error{
+  border: 1px solid red;
+  color: red;
+}
+
+input:invalid {
+    box-shadow: none;
+}
