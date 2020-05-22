@@ -12500,15 +12500,15 @@ button.btn {
 
 .btn-warning {
 	color: #212529;
-	background-color: #F25022;
-	border-color: #F25022;
+	background-color: #0F9D58;
+	border-color: #0F9D58;
 	color: #111111;
 }
 
 .btn-warning:hover {
 	color: #212529;
-	background-color: #de4216;
-	border-color: #e64c20;
+	background-color: #0d8048;
+	border-color: #0d8048;
 }
 
 .btn-warning:focus,
