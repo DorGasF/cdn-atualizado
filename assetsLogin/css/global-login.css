@@ -7426,7 +7426,7 @@ button.bg-dark:focus {
 	-webkit-box-align: center;
 	-ms-flex-align: center;
 	align-items: center;
-	margin: 3rem 0;
+	margin: 1rem 0;
 }
 
 .kt-login.kt-login--v1 .kt-login__wrapper .zaptank-login__body .kt-login__form .kt-login__actions .kt-login__link-forgot {
